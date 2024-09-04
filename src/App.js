@@ -68,7 +68,7 @@ function App() {
       <SearchAutocomplete/> 
 
       {/* Tic tac toe */}
-      <TicTacToe/> 
+      <TicTacToe/>
 
       {/* Feature Flag IMplementation */}
       <FeatureFlagGlobalState>
