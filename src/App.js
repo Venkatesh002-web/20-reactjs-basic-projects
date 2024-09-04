@@ -71,7 +71,7 @@ function App() {
     
       <FeatureFlagGlobalState>
         <FeatureFlags />
-      <FeatureFlagGlobalState/>
+          </FeatureFlagGlobalState>
 
   
       <UseFetchHookTest/>
